@@ -6,7 +6,7 @@ body {
 .rectangle {
   width: 500px;
   height: 300px;
-  margin-left: 200px;
+  margin-left: 300px;
   margin-top: 200px;
   background: blue;
   position: relative;
